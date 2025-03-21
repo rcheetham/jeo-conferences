@@ -5,7 +5,7 @@
 | **Jan 2025** |  |  |  |
 |  | [International Space Industry Exhibition (ISIEX)](https://www.jetro.go.jp/en/database/j-messe/tradefair/detail/139977) | 29 \- 31 Jan | Tokyo Big Sight \- Nikkan Kogyo Shimbun \- this event had 20,000 visitors in 2024 |
 | **Feb 2025** |  |  |  |
-| [Global Space Technology Convention & Exhibition  (GSTC)](https://space.org.sg/gstce/%20) |  | 26 \- 28 Feb | Singapore |
+|  | [Global Space Technology Convention & Exhibition  (GSTC)](https://space.org.sg/gstce/%20) | 26 \- 28 Feb | Singapore |
 | | [FOSS4G Hokkaido](https://foss4g.hokkaido.jp/2024/)  | 14 Feb | Sapporo, Hokkaido, Japan |
 |  | [State of the Map Japan](https://stateofthemap.jp/2024/%20) | 15 Feb | Sapporo, Hokkaido, Japan |
 | **Mar 2025** |  |  |  |
